@@ -1,6 +1,21 @@
-fastapi
-uvicorn
+# OCR + PDF processing
+pytesseract
+pdf2image
+Pillow
+opencv-python
+reportlab
+
+# LLM + HTTP
 requests
+tenacity
+
+# Observability
+structlog
+prometheus-client
+
+# Environment variables
 python-dotenv
-snowflake-connector-python
-pydantic
+
+# Utilities
+numpy
+fpdf
